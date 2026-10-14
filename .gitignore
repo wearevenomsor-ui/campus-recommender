@@ -1,0 +1,11 @@
+# Cloudflared and large binaries
+cloudflared.exe
+cloudflared
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local logs
+*.log
